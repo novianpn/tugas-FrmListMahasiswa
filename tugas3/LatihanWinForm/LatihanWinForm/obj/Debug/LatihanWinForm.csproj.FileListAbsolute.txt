@@ -1,0 +1,11 @@
+E:\tugas3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+E:\tugas3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+E:\tugas3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+E:\tugas3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+E:\tugas3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+E:\tugas3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+E:\tugas3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+E:\tugas3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+E:\tugas3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+E:\tugas3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+E:\tugas3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
